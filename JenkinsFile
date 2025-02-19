@@ -1,0 +1,47 @@
+pipline {
+
+  agent any
+
+   stages{
+          
+      stage("Install Depdendencies"){
+            
+            steps{
+                
+            }
+
+          }
+  
+      stage("Install Depdendencies"){
+            
+            steps{
+                
+            }
+
+          }
+
+      stage("Install Depdendencies"){
+            
+            steps{
+                
+            }
+
+          }
+
+        stage("Install Depdendencies"){
+            
+            steps{
+                
+            }
+
+          }
+
+
+   }
+
+
+
+
+
+
+}
